@@ -30,4 +30,4 @@ https://platum.kr/archives/202788
 
 ![image](https://github.com/user-attachments/assets/73575178-8a96-434a-bd01-f1bee0a46689)
 
-[📄 프로젝트 보고서 보기](프로그램 설명.pdf)
+[📄 프로젝트 보고서 보기](program.pdf)
