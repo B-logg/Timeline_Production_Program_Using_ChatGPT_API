@@ -1,4 +1,6 @@
 # Timeline Production Program Using ChatGPT API
+[📄 프로젝트 보고서 보기](program.pdf)
+
 ## 개발필요성
 ‘에브리타임’은 대학 생활에 필수적으로 사용되고 있는 앱이며, 해당 앱에서 제공되는 ‘시간표 마법사’라는 기능은 강의 시간표를 손쉽게 구성할 수 있는 서비스이다. 
 본인이 소속된 학교에서 제공되는 시간표 정보가 활용되며, 원하는 강의를 여러 개의 그룹에 나누어 담고 가능한 모든 경우의 시간표를 탐색하는 원리이다. 
@@ -30,4 +32,4 @@ https://platum.kr/archives/202788
 
 ![image](https://github.com/user-attachments/assets/73575178-8a96-434a-bd01-f1bee0a46689)
 
-[📄 프로젝트 보고서 보기](program.pdf)
+
